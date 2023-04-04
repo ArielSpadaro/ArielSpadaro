@@ -42,7 +42,7 @@
     
 <hr>
     <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arivp&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fedefleitas" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArielSpadaro&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fedefleitas" /></p>
     <br>
     
     
